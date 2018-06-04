@@ -1,0 +1,13 @@
+C:\_dev\workplace\Visual Studio 2013\Projects\OracleDataAccessExample\OracleDataAccessExample\bin\Debug\OracleDataAccessExample.exe.config
+C:\_dev\workplace\Visual Studio 2013\Projects\OracleDataAccessExample\OracleDataAccessExample\bin\Debug\OracleDataAccessExample.exe
+C:\_dev\workplace\Visual Studio 2013\Projects\OracleDataAccessExample\OracleDataAccessExample\bin\Debug\OracleDataAccessExample.pdb
+C:\_dev\workplace\Visual Studio 2013\Projects\OracleDataAccessExample\OracleDataAccessExample\bin\Debug\EntityFramework.dll
+C:\_dev\workplace\Visual Studio 2013\Projects\OracleDataAccessExample\OracleDataAccessExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\_dev\workplace\Visual Studio 2013\Projects\OracleDataAccessExample\OracleDataAccessExample\bin\Debug\Newtonsoft.Json.dll
+C:\_dev\workplace\Visual Studio 2013\Projects\OracleDataAccessExample\OracleDataAccessExample\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\_dev\workplace\Visual Studio 2013\Projects\OracleDataAccessExample\OracleDataAccessExample\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\_dev\workplace\Visual Studio 2013\Projects\OracleDataAccessExample\OracleDataAccessExample\bin\Debug\EntityFramework.xml
+C:\_dev\workplace\Visual Studio 2013\Projects\OracleDataAccessExample\OracleDataAccessExample\bin\Debug\EntityFramework.SqlServer.xml
+C:\_dev\workplace\Visual Studio 2013\Projects\OracleDataAccessExample\OracleDataAccessExample\obj\Debug\OracleDataAccessExample.csprojResolveAssemblyReference.cache
+C:\_dev\workplace\Visual Studio 2013\Projects\OracleDataAccessExample\OracleDataAccessExample\obj\Debug\OracleDataAccessExample.exe
+C:\_dev\workplace\Visual Studio 2013\Projects\OracleDataAccessExample\OracleDataAccessExample\obj\Debug\OracleDataAccessExample.pdb
